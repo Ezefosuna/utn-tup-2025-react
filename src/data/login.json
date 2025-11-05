@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIxMjM0NTYiLCJ1c2VybmFtZSI6ImFkbWluIiwiaWF0IjoxNzA5NTcyODAwLCJleHAiOjE3MDk1NzY0MDB9.dGVzdF90b2tlbl9mb3JfZXhhbXBsZQ",
+  "user": {
+    "id": "123456",
+    "username": "admin",
+    "email": "admin@example.com",
+    "roles": ["admin", "user"]
+  },
+  "expiresIn": 3600
+}
+
