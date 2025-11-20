@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "titulo": "Ceviche Peruano",
+    "descripcion": "Platillo tradicional peruano con pescado fresco marinado en jugo de limón con cebolla, cilantro y chiles. Fresco, delicioso y perfecto para el verano.",
+    "imagen": "https://gourmet.iprospect.cl/wp-content/uploads/2024/01/CEVICHE.jpg",
+    "tiempoPreparacion": "35 minutos",
+    "dificultad": "Media",
+    "porciones": 4,
+    "categoria": "Platos Principales",
+    "ingredientes": [
+      { "cantidad": "800", "unidad": "g", "nombre": "Pescado blanco fresco" },
+      { "cantidad": "8", "unidad": "unidades", "nombre": "Limones" },
+      { "cantidad": "2", "unidad": "unidades", "nombre": "Cebollas rojas" },
+      { "cantidad": "3", "unidad": "chiles", "nombre": "Ají amarillo" },
+      { "cantidad": "1", "unidad": "ramo", "nombre": "Cilantro fresco" },
+      { "cantidad": "1", "unidad": "cucharadita", "nombre": "Sal" },
+      { "cantidad": "1", "unidad": "cucharadita", "nombre": "Pimienta" }
+    ],
+    "pasos": [
+      "Limpiar y cortar el pescado en cubos medianos",
+      "Exprimir los limones y colar el jugo",
+      "Colocar el pescado en un recipiente de vidrio",
+      "Verter el jugo de limón sobre el pescado hasta cubrirlo completamente",
+      "Dejar reposar en refrigeración durante 15-20 minutos",
+      "Picar finamente la cebolla roja",
+      "Agregar la cebolla al ceviche",
+      "Añadir el ají amarillo picado y el cilantro",
+      "Sazonar con sal y pimienta",
+      "Servir frío con camote y maíz"
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Ramen Casero",
+    "descripcion": "Sopa de fideos japonesa con caldo aromático, verduras frescas y pollo tierno. Un tazón reconfortante lleno de sabor auténtico y satisfacción.",
+    "imagen": "https://www.aceitesdeolivadeespana.com/wp-content/uploads/2021/01/receta-ramen-casero.jpg",
+    "tiempoPreparacion": "60 minutos",
+    "dificultad": "Media",
+    "porciones": 3,
+    "categoria": "Platos Principales",
+    "ingredientes": [
+      { "cantidad": "500", "unidad": "g", "nombre": "Pechuga de pollo" },
+      { "cantidad": "400", "unidad": "g", "nombre": "Fideos ramen" },
+      { "cantidad": "1", "unidad": "litro", "nombre": "Caldo de pollo" },
+      { "cantidad": "3", "unidad": "cucharadas", "nombre": "Salsa de soja" },
+      { "cantidad": "2", "unidad": "tazas", "nombre": "Bok choy" },
+      { "cantidad": "2", "unidad": "unidades", "nombre": "Huevos" },
+      { "cantidad": "1", "unidad": "cucharadita", "nombre": "Aceite de sésamo" },
+      { "cantidad": "1", "unidad": "cucharada", "nombre": "Jengibre rallado" }
+    ],
+    "pasos": [
+      "Cocinar la pechuga de pollo en el caldo durante 20 minutos",
+      "Desmenuzar el pollo cocido",
+      "Hervir agua en una olla grande para los fideos",
+      "Cocinar los huevos en agua hirviendo durante 6-7 minutos",
+      "Cocinar los fideos ramen según las instrucciones del paquete",
+      "En el caldo caliente, agregar la salsa de soja y el jengibre",
+      "Agregar el bok choy y cocinar 3 minutos",
+      "En tazones, distribuir los fideos cocidos",
+      "Verter el caldo con las verduras y pollo desmenuzado",
+      "Colocar medio huevo cocido en cada tazón y rociar con aceite de sésamo"
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "Torta de Tres Leches",
+    "descripcion": "Postre tradicional latinoamericano con esponjoso bizcocho empapado en tres tipos de leche. Cremoso, delicioso y perfecto para ocasiones especiales.",
+    "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioK43t0vuSApL3qpshvUG8xsMjj5GzcNMByZZNWJmuEKUU4-HEv0vbNApRJ7CSn3Q-uYMdtTiF7ANqbGd4Uk_G54m7W2N41bNNgM5jxRc3cXdMI-My493m6gUXAfofQX0t6EfB1C_hUrM0/s0-rw/torta-tres-leches-receta.jpg.jpg",
+    "tiempoPreparacion": "90 minutos",
+    "dificultad": "Media",
+    "porciones": 8,
+    "categoria": "Postres",
+    "ingredientes": [
+      { "cantidad": "1", "unidad": "taza", "nombre": "Harina" },
+      { "cantidad": "5", "unidad": "unidades", "nombre": "Huevos" },
+      { "cantidad": "150", "unidad": "g", "nombre": "Azúcar" },
+      { "cantidad": "1", "unidad": "cucharadita", "nombre": "Vainilla" },
+      { "cantidad": "1", "unidad": "lata", "nombre": "Leche condensada" },
+      { "cantidad": "1", "unidad": "lata", "nombre": "Leche evaporada" },
+      { "cantidad": "200", "unidad": "ml", "nombre": "Crema de leche" },
+      { "cantidad": "500", "unidad": "ml", "nombre": "Nata para montar" },
+      { "cantidad": "2", "unidad": "cucharadas", "nombre": "Azúcar para la nata" }
+    ],
+    "pasos": [
+      "Precalentar horno a 180°C",
+      "Batir los huevos con el azúcar hasta formar picos",
+      "Incorporar la harina y vainilla suavemente",
+      "Verter en molde cuadrado y hornear 25-30 minutos",
+      "Dejar enfriar completamente",
+      "Mezclar leche condensada, leche evaporada y crema de leche",
+      "Hacer orificios en el bizcocho con un tenedor",
+      "Verter lentamente la mezcla de tres leches",
+      "Refrigerar mínimo 2 horas",
+      "Montar la nata con azúcar",
+      "Cubrir con nata y decorar con cerezas o frutas"
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "Pad Thai",
+    "descripcion": "Fideos de arroz tailandeses salteados con camarones, huevo y cacahuetes. Combinación perfecta de sabores dulces, salados y ácidos.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/39/Phat_Thai_kung_Chang_Khien_street_stall.jpg",
+    "tiempoPreparacion": "30 minutos",
+    "dificultad": "Media",
+    "porciones": 2,
+    "categoria": "Platos Principales",
+    "ingredientes": [
+      { "cantidad": "250", "unidad": "g", "nombre": "Fideos de arroz" },
+      { "cantidad": "200", "unidad": "g", "nombre": "Camarones" },
+      { "cantidad": "2", "unidad": "unidades", "nombre": "Huevos" },
+      { "cantidad": "2", "unidad": "cucharadas", "nombre": "Salsa de tamarindo" },
+      { "cantidad": "3", "unidad": "cucharadas", "nombre": "Salsa de pescado" },
+      { "cantidad": "2", "unidad": "cucharadas", "nombre": "Azúcar" },
+      { "cantidad": "100", "unidad": "g", "nombre": "Brotes de soja" },
+      { "cantidad": "50", "unidad": "g", "nombre": "Cacahuetes molidos" },
+      { "cantidad": "2", "unidad": "tallos", "nombre": "Cebolleta picada" }
+    ],
+    "pasos": [
+      "Hidratar los fideos de arroz en agua tibia durante 20 minutos",
+      "Calentar aceite en un wok a fuego alto",
+      "Saltar los camarones hasta que cambien de color (2-3 minutos)",
+      "Empujar los camarones hacia un lado y verter los huevos",
+      "Revolver los huevos hasta que estén cocidos",
+      "Agregar los fideos drenados",
+      "Mezclar con la salsa de tamarindo, salsa de pescado y azúcar",
+      "Saltear 2-3 minutos combinando todo bien",
+      "Agregar los brotes de soja",
+      "Servir decorado con cacahuetes molidos, cebolleta y limón"
+    ]
+  },
+  {
+    "id": 5,
+    "titulo": "Pollo con Mole Negro",
+    "descripcion": "Pollo cocinado en auténtica salsa mole negro mexicana. Platillo complejo con más de 20 ingredientes que crea un sabor profundo y memorable.",
+    "imagen": "https://www.northgatemarket.com/wp-content/uploads/2022/07/Pollo-con-Mole-featured-image-%E2%80%93-5.jpg",
+    "tiempoPreparacion": "120 minutos",
+    "dificultad": "Difícil",
+    "porciones": 6,
+    "categoria": "Platos Principales",
+    "ingredientes": [
+      { "cantidad": "1.5", "unidad": "kg", "nombre": "Pollo cortado en piezas" },
+      { "cantidad": "6", "unidad": "unidades", "nombre": "Chiles guajillo" },
+      { "cantidad": "4", "unidad": "unidades", "nombre": "Chiles pasilla" },
+      { "cantidad": "3", "unidad": "unidades", "nombre": "Chiles mulato" },
+      { "cantidad": "30", "unidad": "g", "nombre": "Chocolate amargo" },
+      { "cantidad": "3", "unidad": "dientes", "nombre": "Ajo" },
+      { "cantidad": "1", "unidad": "cucharada", "nombre": "Almendras" },
+      { "cantidad": "1", "unidad": "cucharada", "nombre": "Pasas" },
+      { "cantidad": "1", "unidad": "cucharada", "nombre": "Ajonjolí" }
+    ],
+    "pasos": [
+      "Cocinar el pollo en agua con sal durante 20 minutos",
+      "Dessecar los chiles y quitarles las semillas",
+      "Tostar los chiles en una sartén durante 1 minuto",
+      "Remojar los chiles en agua caliente 15 minutos",
+      "Licuar los chiles con ajo, almendras, pasas y ajonjolí",
+      "Colar la mezcla para obtener una pasta suave",
+      "Calentar aceite e incorporar la pasta de chiles",
+      "Cocinar la salsa a fuego bajo durante 10 minutos",
+      "Agregar el chocolate y mezclar hasta disolver",
+      "Incorporar el pollo cocido a la salsa",
+      "Simmer durante 20 minutos para que se mezclen los sabores",
+      "Servir caliente con arroz o tortillas"
+    ]
+  },
+  {
+    "id": 6,
+    "titulo": "Croquetas de Jamón",
+    "descripcion": "Croquetas crujientes rellenas de jamón y salsa bechamel cremosa. Aperitivo español clásico, perfecto para compartir en reuniones.",
+    "imagen": "https://cdn.elcocinerocasero.com/imagen/receta/1000/2022-10-15-17-44-54/croquetas-de-jamon-serrano.jpeg",
+    "tiempoPreparacion": "50 minutos",
+    "dificultad": "Media",
+    "porciones": 16,
+    "categoria": "Aperitivos",
+    "ingredientes": [
+      { "cantidad": "100", "unidad": "g", "nombre": "Mantequilla" },
+      { "cantidad": "100", "unidad": "g", "nombre": "Harina" },
+      { "cantidad": "500", "unidad": "ml", "nombre": "Leche caliente" },
+      { "cantidad": "200", "unidad": "g", "nombre": "Jamón serrano picado" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Nuez moscada" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Sal y pimienta" },
+      { "cantidad": "2", "unidad": "unidades", "nombre": "Huevos" },
+      { "cantidad": "100", "unidad": "g", "nombre": "Pan rallado" },
+      { "cantidad": "500", "unidad": "ml", "nombre": "Aceite para freír" }
+    ],
+    "pasos": [
+      "Derretir mantequilla en una olla a fuego medio",
+      "Incorporar la harina y revolver constantemente durante 2 minutos",
+      "Verter la leche caliente lentamente, revolviendo sin parar",
+      "Cocinar hasta obtener una crema espesa (5-7 minutos)",
+      "Agregar el jamón picado, nuez moscada, sal y pimienta",
+      "Verter la mezcla en un plato y dejar enfriar completamente",
+      "Con las manos enharinadas, formar croquetas alargadas",
+      "Batir los huevos en un plato",
+      "Pasar cada croqueta por huevo batido y después por pan rallado",
+      "Calentar aceite a 170°C",
+      "Freír las croquetas hasta que estén doradas (2-3 minutos)",
+      "Escurrir sobre papel absorbente",
+      "Servir calientes con salsa alioli"
+    ]
+  }
+]
