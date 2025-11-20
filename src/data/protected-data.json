@@ -1,0 +1,43 @@
+{
+  "success": true,
+  "message": "Acceso autorizado al recurso protegido",
+  "data": {
+    "userProfile": {
+      "id": "123456",
+      "username": "admin",
+      "email": "admin@example.com",
+      "fullName": "Administrador del Sistema",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "roles": ["admin", "user"],
+      "permissions": ["read", "write", "delete", "admin"],
+      "lastLogin": "2024-11-05T10:30:00Z"
+    },
+    "stats": {
+      "totalUsers": 150,
+      "activeProjects": 23,
+      "completedTasks": 487,
+      "pendingReviews": 12
+    },
+    "recentActivity": [
+      {
+        "id": 1,
+        "action": "Login exitoso",
+        "timestamp": "2024-11-05T10:30:00Z",
+        "ip": "192.168.1.1"
+      },
+      {
+        "id": 2,
+        "action": "Actualización de perfil",
+        "timestamp": "2024-11-04T15:45:00Z",
+        "ip": "192.168.1.1"
+      },
+      {
+        "id": 3,
+        "action": "Creación de proyecto",
+        "timestamp": "2024-11-03T09:20:00Z",
+        "ip": "192.168.1.1"
+      }
+    ]
+  }
+}
+
